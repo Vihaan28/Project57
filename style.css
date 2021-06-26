@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(#b58e02 0%, #ffc800 100%);
+    text-align: center;
+
+}
+
+p {
+    max-width: 400px auto;
+    font-family: cursive;
+}
+
+.line {
+    height: 5px;
+    width:200px;
+    margin: 25px auto;
+    background-color: black;
+
+}
+
+img {
+    width: 300px;
+    border-radius: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: aqua;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.boundry {
+    height: 10px;
+    background-color: #008cff;
+}
